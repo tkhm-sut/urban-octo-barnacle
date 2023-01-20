@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+*{
+  margin:0;
+  padding:0;
+  }
+
+img { border:0;}
+
+.center {
+  text-align: center;
+  }
+  
+.back {
+  position: relative;
+  }
+  
+#inner {
+  line-height:0;
+  }
+
+  
+.front_5 {
+  position: absolute;
+  right: 415px;
+  bottom: -9750px;
+  }
+
+.front_6 {
+  position: absolute;
+  right: 318px;
+  bottom:-1200px;
+  }
+  
+.front_7 {
+  position: absolute;
+  right: 318px;
+  bottom:-1340px;
+  }
+
+.front_8 {
+  position: absolute;
+  right: 318px;
+  bottom:-1480px;
+  }
+  
+.front_9 {
+  position: absolute;
+  right: 370px;
+  bottom:-10295px;
+  }
+  
+.front_10 {
+  position: absolute;
+  right: 333px;
+  bottom:-2275px;
+  }
+  
+.front_11 {
+  position: absolute;
+  right: 333px;
+  bottom:-4785px;
+  }
